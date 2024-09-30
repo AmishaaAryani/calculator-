@@ -1,8 +1,8 @@
-C:\Users\admi\Pictures\Screenshots
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+<img src="https://i.ibb.co/G5KVcwD/Screenshot-2024-09-30-172323.png" alt="Screenshot-2024-09-30-172323" border="0">
 ## Available Scripts
 
 In the project directory, you can run:
